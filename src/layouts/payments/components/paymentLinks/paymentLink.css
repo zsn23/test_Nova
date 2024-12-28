@@ -1,0 +1,18 @@
+.css-1y38kyc-MuiButtonBase-root-MuiTab-root.Mui-selected{
+    background: linear-gradient(97.89deg, #4318ff, #9f7aea);
+    font-size: large;   
+    font-family: "Plus Jakarta Display", "Helvetica", "Arial", sans-serif;
+    font-weight: bolder;
+    font-size: larger;
+}
+.css-1t4ppgo-MuiTabs-flexContainer{
+    justify-content: space-between;
+}
+.css-knlq9b-MuiFormControlLabel-root .MuiFormControlLabel-label{
+    color: white !important;
+    font-weight: 100 !important;
+}
+
+.css-1olnv8g-MuiTabs-indicator{
+    background: linear-gradient(97.89deg, #4318ff, #9f7aea);
+}
